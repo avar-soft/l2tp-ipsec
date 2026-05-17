@@ -5,7 +5,7 @@
 **Профессиональная установка и управление L2TP/IPSec VPN-сервером за несколько минут**
 
 [![Bash](https://img.shields.io/badge/Bash-4.0+-green?style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash/)
-[![Platform](https://img.shields.io/badge/Linux-Debian_·_Ubuntu_·_CentOS_·_Arch-blue?style=for-the-badge&logo=linux)](https://kernel.org)
+[![Platform](https://img.shields.io/badge/Ubuntu-blue?style=for-the-badge&logo=linux)](https://kernel.org)
 [![License](https://img.shields.io/badge/Лицензия-MIT-orange?style=for-the-badge)](./LICENSE)
 [![strongSwan](https://img.shields.io/badge/strongSwan-IPSec-red?style=for-the-badge)](https://www.strongswan.org/)
 
